@@ -162,7 +162,7 @@ Charles Wright Mills criticized academic sociology for being detached and theore
 
 ---
 
-赖特·米尔斯的开拓精神（Pioneering Spirit of Wright Mills）
+### 赖特·米尔斯的开拓精神（Pioneering Spirit of Wright Mills）
 
 使用费曼技巧来理解赖特·米尔斯的影响及其遗产涉及将信息分解为更简单的概念，清晰地解释每个部分，然后总结整体的信息。让我们一步步进行：
 
@@ -223,3 +223,115 @@ Wright Mills, despite facing resistance from the academic and political establis
 Wright Mills was a visionary thinker whose criticisms of sociology and power dynamics were initially rejected but later influenced the US New Left and contemporary social movements. His ideas, which were ahead of their time, are now more relevant than ever in light of recent global events and the ongoing struggle against inequality.
 
 By breaking down the complex narrative surrounding Wright Mills' influence and legacy, we can better understand his significant impact on sociology and activism, even beyond his lifetime.
+
+---
+
+### 赖特·米尔斯观点下的骆驼祥子（"Rickshaw Boy" from Wright Mills' viewpoint）
+
+从赖特·米尔斯的角度分析《骆驼祥子》（原作者老舍）意味着通过社会学想象力的视角来看待这部小说，米尔斯定义社会学想象力为将个人烦恼与公共议题相联系的能力。在《骆驼祥子》中，主角祥子遭遇的许多挑战反映出了中国革命前夕更广泛的社会问题。
+
+### 个人困扰与公共议题
+
+祥子奋斗拥有自己的人力车代表了一种个人困扰。然而，这深深植根于贫困、社会阶层以及经济压迫等公共议题之中。米尔斯可能会指出，不能仅仅将祥子的处境视为个人的失败，而应看作是限制穷人机会的社会结构的产物。
+
+### 权力精英
+
+小说描绘了存在一个控制资源和机会的权力精英群体，这与米尔斯描述的权力精英类似。比如刘四爷，人力车公司的老板，以及腐败的警察虎德，都是持有权力并剥削工人阶级的代表人物。他们的行为导致社会不平等现象的持续。
+
+### 理性化与官僚制
+
+在《骆驼祥子》中，僵化的社会等级制度和城市行政管理的官僚性质可以被视为理性化的例子，这也是米尔斯讨论过的概念。管理祥子等人物生活的规则和条例是非个人化的，往往不公正，反映了优先效率而非公平的官僚体系。
+
+### 社会学想象力
+
+老舍对祥子从满怀希望到绝望的描绘，使读者能够把握个人境遇与更广泛社会力量之间的联系。这一叙事展示了社会学想象力，它表明祥子的个人挣扎是20世纪20年代和30年代中国更广泛经济和社会状况的反映。
+
+### 社会变革
+
+米尔斯认为社会学家有责任参与到社会变革中。虽然《骆驼祥子》没有明确呼吁革命或改革，但它通过展示社会秩序对个人的压迫效应来批判社会秩序。这种批判可能激发读者思考社会变革的必要性，这与米尔斯倡导知识分子在解决社会问题上扮演领导角色的观点相一致。
+
+### 结论
+
+从赖特·米尔斯的角度来看，《骆驼祥子》是社会学想象中一个令人心酸的案例研究。它展示了个人生活如何被更广泛的社会力量塑造和反映。通过考察祥子的故事，我们可以理解阶级、权力和社会结构对个人命运的影响，这与米尔斯呼吁的一种与真实世界互动并对社会变革做出贡献的社会学相呼应。
+
+Analyzing "Rickshaw Boy", a novel by Chinese author Lao She, from the perspective of Wright Mills involves looking at the story through the lens of the sociological imagination, which Mills defined as the ability to connect personal troubles to public issues. In "Rickshaw Boy," the main character, Xiangzi, faces numerous challenges that reflect broader social issues within pre-revolutionary China.
+
+### Personal Troubles & Public Issues
+
+Xiangzi's struggle to own a rickshaw represents a personal trouble. However, this is deeply intertwined with public issues such as poverty, social class, and economic oppression. Mills would suggest that Xiangzi's situation cannot be understood solely as an individual failure but rather as a product of societal structures that limit opportunities for the poor.
+
+### The Power Elite
+
+The novel illustrates the presence of a power elite that controls resources and opportunities, much like the power elite Wright Mills described. Characters such as Liu Siye, the owner of the rickshaw company, and Huade, the corrupt police officer, represent those who hold power and exploit the working class. Their actions contribute to the perpetuation of social inequality.
+
+### Rationalization & Bureaucracy
+
+In "Rickshaw Boy," the rigid social hierarchy and the bureaucratic nature of the city's administration can be seen as examples of rationalization, a concept also discussed by Mills. The rules and regulations that govern the lives of characters like Xiangzi are impersonal and often unjust, reflecting a bureaucratic system that prioritizes efficiency over fairness.
+
+### The Sociological Imagination
+
+Lao She's depiction of Xiangzi's descent from hopeful ambition to despair allows readers to grasp the connection between individual circumstances and larger societal forces. This narrative exemplifies the sociological imagination by showing how Xiangzi's personal struggles are a reflection of the broader economic and social conditions in China during the 1920s and 1930s.
+
+### Social Change
+
+Mills believed that sociologists had a duty to engage in social change. While "Rickshaw Boy" does not necessarily call for revolution or reform explicitly, it critiques the social order by illustrating its oppressive effects on individuals. This critique might inspire readers to consider the need for social change, which aligns with Mills' advocacy for intellectuals to take a leading role in addressing societal issues.
+
+### Conclusion
+
+From Wright Mills' viewpoint, "Rickshaw Boy" serves as a poignant case study in the sociological imagination. It shows how individual lives are shaped by and reflective of broader social forces. By examining Xiangzi's story, we can understand the impact of class, power, and social structure on personal destiny, which resonates with Mills' call for a sociology that engages with the real world and contributes to social transformation.
+
+---
+
+### 赖特·米尔斯观点下的孔乙己（"Kong Yiji" from Wright Mills' viewpoint）
+
+从C. 赖特·米尔斯的角度分析孔乙己这个角色，涉及到运用米尔斯的“社会学想象力”概念来理解个人经历是如何与更广阔的历史和社会进程相联系的。在鲁迅的短篇小说《孔乙己》中，我们看到一个深受晚清中国社会结构和历史变迁影响的人物形象。
+
+### 个人困扰与公共议题
+
+在故事中，孔乙己被描绘为一个屡试不第的穷书生。他的个人困扰——贫穷、社会孤立和嗜酒——不仅仅是个人的不幸，而是当时更广泛公共议题的体现，例如儒家价值观的衰落、科举制度的腐败以及当时固化的社会等级。
+
+### 权力精英
+
+米尔斯同样会指出，在孔乙己所处的社会中存在着权力精英。这些精英，通常是受益于现有社会秩序的富商和官员，维护着一种让像孔乙己这样的人处于社会底层的体系。权力精英控制着资源和机会，这些资源和机会对于下层阶级来说是无法触及的。
+
+### 理性化与官僚制度
+
+故事也触及到了理性化和官僚制度的主题，这是米尔斯在其著作中讨论过的。清朝科举制度的刚性结构可被视为一种理性化形式，其中手段变成了目的本身。这个体系，虽然设计初衷是为了选拔最优秀的人才来治理国家，却变成了一种维持现状、排除不符合其狭隘标准的人的工具。
+
+### 社会学想象力
+
+鲁迅通过孔乙己这个角色展示了个人生活是如何受到更大社会力量影响的。通过叙述，读者可以洞察孔乙己的个人挣扎与晚清帝国更广阔的历史和社会背景之间的联系。这种对历史情境如何塑造个人命运的理解体现了社会学想象力。
+
+### 社会变革
+
+米尔斯认为，社会学家有责任参与社会变革。尽管《孔乙己》没有直接呼吁革命或改革，但它批判了导致孔乙己这样的人遭受压迫和边缘化的社会秩序。通过揭露社会内部的矛盾，这个故事可能激励读者思考社会变革的必要性——这一主题与米尔斯倡导知识分子在解决社会问题中扮演领导角色的理念相契合。
+
+### 结论
+
+总之，从C. 赖特·米尔斯的角度分析孔乙己，使我们能够看到角色的个人经历与其时代的历史和社会语境是如何交织在一起的。它揭示了社会结构和历史变迁如何影响个人生活，强调了社会学想象力在理解人类生存复杂性方面的相关性。
+
+Analyzing the character of Kong Yiji through the lens of C. Wright Mills involves applying Mills' concept of the "sociological imagination" to understand how individual experiences are connected to broader historical and social processes. In Lu Xun's short story "Kong Yiji," we see a character whose life is deeply influenced by societal structures and historical change in China during the late Qing Dynasty.
+
+### Personal Troubles vs. Public Issues
+
+In the story, Kong Yiji is depicted as a poor scholar who has failed the imperial examinations repeatedly. His personal troubles—poverty, social isolation, and his addiction to alcohol—are not just individual misfortunes but are symptomatic of larger public issues such as the decline of Confucian values, the corruption of the examination system, and the rigid social hierarchy of the time.
+
+### Power Elites
+
+Mills would also point out that there are power elites in the society that Kong Yiji inhabits. These elites, often the wealthy merchants and officials who benefit from the existing social order, perpetuate a system that keeps people like Kong Yiji at the bottom of the social ladder. The power elite controls the resources and opportunities, which are inaccessible to the lower classes.
+
+### Rationalization and Bureaucracy
+
+The story also touches on the themes of rationalization and bureaucracy, which Mills discussed in his work. The rigid structure of the imperial examination system can be seen as a form of rationalization where the means become an end in themselves. This system, while designed to select the most capable for governance, becomes a tool for maintaining the status quo and excluding those who do not fit into its narrow criteria.
+
+### The Sociological Imagination
+
+Lu Xun uses the character of Kong Yiji to illustrate how individual lives are affected by the larger social forces at play. Through the narrative, the reader can grasp the connection between Kong Yiji's personal struggles and the broader historical and social context of late Imperial China. This insight into how historical circumstances shape individual destinies embodies the sociological imagination.
+
+### Social Change
+
+Mills believed that it was the responsibility of the sociologist to engage with social change. Although "Kong Yiji" does not overtly call for revolution or reform, it critiques the social order that leads to the oppression and marginalization of individuals like Kong Yiji. By exposing the contradictions within the society, the story may inspire readers to consider the need for social change—a theme that aligns with Mills' advocacy for intellectuals to take a leading role in addressing social problems.
+
+### Conclusion
+
+In summary, analyzing Kong Yiji from the perspective of C. Wright Mills allows us to see how the character's personal experiences are intertwined with the historical and social contexts of his time. It shows how societal structures and historical changes can impact individual lives, highlighting the relevance of the sociological imagination in understanding the complexities of human existence.
