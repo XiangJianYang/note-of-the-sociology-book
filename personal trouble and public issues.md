@@ -482,7 +482,7 @@ Through the lens of C. Wright Mills, "Journey to the West" reveals how personal 
 
 ---
 
-赖特·米尔斯观点下的红楼梦（Dream of the red chamber from Wright Mills' viewpoint）
+### 赖特·米尔斯观点下的红楼梦（Dream of the red chamber from Wright Mills' viewpoint）
 
 通过C.赖特·米尔斯的视角来分析《红楼梦》（又名《石头记》），意味着探讨个人烦恼与公共问题之间的联系，以及个体经历如何受到历史情境和社会结构的影响。以下是米尔斯的视角可能为这部中国古典小说带来的洞见：
 
