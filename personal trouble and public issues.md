@@ -668,7 +668,7 @@ From a C. Wright Mills perspective, "Faust" reveals how individual quests for me
 
 ---
 
-赖特·米尔斯观点下的哈姆雷特（Hamlet from Wright Mills' viewpoint）
+### 赖特·米尔斯观点下的哈姆雷特（Hamlet from Wright Mills' viewpoint）
 
 以C. 赖特·米尔斯的视角分析威廉·莎士比亚的《哈姆雷特》要求我们将该剧放在米尔斯的“社会学想象力”这一概念之下考量——这是一种能将个人烦恼与公众问题相联系的能力，理解个人传记作为更大历史进程的一部分。以下是从米尔斯的角度解读《哈姆雷特》的方法：
 
